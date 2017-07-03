@@ -1,13 +1,13 @@
 [
   {
     "remote": "github",
-    "repository": "mohancm100/android_vendor_coolpad_CP8298_I00",
+    "repository": "sumit44840/android_vendor_coolpad_CP8298_I00",
     "target_path": "vendor/coolpad/CP8298_I00",
     "branch": "LineageOS-14.1"
   },
   {
     "remote": "github",
-    "repository": "samgrande/android_kernel_coolpad_CP8298_I00",
+    "repository": "sumit44840/kernel_3.18_coolpad_CP8298_I00_CP8676_I02"
     "target_path": "kernel/coolpad/CP8298_I00",
     "branch": "master"
   }

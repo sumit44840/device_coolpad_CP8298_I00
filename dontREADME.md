@@ -7,8 +7,8 @@ This branch is device for building of the LineageOS 14.1 and Android Nougat 7.1.
 
 # About Device
 
-Lenovo K4 Note(A7010a48)
-![Lenovo K4 Note](http://cdn2.gsmarena.com/vv/pics/lenovo/lenovo-a7010.jpg "Lenovo K4 Note")
+Coolpad Note 3(CP8676_I02)
+![Coolpad Note 3](http://drop.ndtv.com/TECH/product_database/images/109201512321PM_635_coolpad_note_3.jpeg "Coolpad Note 3")
 
 ### Specifications
 
